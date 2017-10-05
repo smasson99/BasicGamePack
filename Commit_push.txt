@@ -1,0 +1,6 @@
+https://github.com/smasson99/BasicGamePack.git
+
+Tâches:
+
+Sam M:					Sam B:
+Chess, Rushhour, Geometry War		Tetris, Pacman, StickShooter
